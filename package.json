@@ -1,0 +1,25 @@
+{
+  "name": "com.devhrytsan.dear-imgui-unity-continued",
+  "displayName": "Dear ImGui Continued",
+  "version": "1.0.0",
+  "description": "Bloat-free Graphical User interface for Unity",
+  "unity": "2020.3",
+  "keywords": [
+    "dear",
+    "imgui",
+    "ui"
+  ],
+  "author": {
+    "name": "Dev Hrytsan",
+    "url": "https://github.com/DevHrytsan"
+  },
+  "dependencies": {
+    "com.unity.collections": "0.17.0-preview.18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devhrytsan/dear-imgui-unity-continued",
+    "revision": ""
+  },
+  "type": "library"
+}
